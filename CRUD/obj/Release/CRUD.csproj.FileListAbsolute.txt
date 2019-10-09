@@ -1,0 +1,9 @@
+D:\Проекты C#\CRUD\CRUD\bin\Release\CRUD.exe.config
+D:\Проекты C#\CRUD\CRUD\bin\Release\CRUD.exe
+D:\Проекты C#\CRUD\CRUD\bin\Release\CRUD.pdb
+D:\Проекты C#\CRUD\CRUD\obj\Release\CRUD.csprojAssemblyReference.cache
+D:\Проекты C#\CRUD\CRUD\obj\Release\CRUD.Form1.resources
+D:\Проекты C#\CRUD\CRUD\obj\Release\CRUD.Properties.Resources.resources
+D:\Проекты C#\CRUD\CRUD\obj\Release\CRUD.csproj.GenerateResource.cache
+D:\Проекты C#\CRUD\CRUD\obj\Release\CRUD.exe
+D:\Проекты C#\CRUD\CRUD\obj\Release\CRUD.pdb
